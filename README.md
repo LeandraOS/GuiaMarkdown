@@ -51,15 +51,18 @@ cd GuiaMarkdown
 
 ### :outbox_tray: Faça o commit e push
 
+```
+git add .
+git commit -m "adicione a mensagem que preferir"
+git push nomeDaSuaBranch
+```
+
 ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/50140771/133878578-ea1b38a6-06ef-4a15-bcea-f2bac291a18a.gif)
 
 
 ### :arrows_clockwise: Crie seu PR 
 
 ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/50140771/133878578-ea1b38a6-06ef-4a15-bcea-f2bac291a18a.gif)
-
-
-
 
 ## 📌 Finalização
 
