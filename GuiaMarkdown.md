@@ -146,5 +146,5 @@ pose acontecer de nós precisarmos usar um sinal desse, para isso, basta adicion
 seja apresentado na tela.
 
 Exemplo:
-Pode-se usar /# para criar um título igual ao <h1></h1> de html
+Pode-se usar \# para criar um título semelhante ao `<h1>` do HTML.
 
