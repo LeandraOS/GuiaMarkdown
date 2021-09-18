@@ -1,40 +1,53 @@
 # :pencil: Guia Markdown simples
 
+## Índice
+- [Guia Markdown simples](#pencil-guia-markdown-simples)
+
 Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem markdown.
 
-Títulos
+## Títulos
 
 Para criar títulos, pode-se usar de um # até seis ###### para definir o nível (tamanho) do
 título.
 
-Parágrafo
+# Exemplo
+## Exemplo
+### Exemplo
+#### Exemplo
+##### Exemplo
+###### Exemplo
+
+## Parágrafo
 
 Para escrever páragrafos não temos uma formatação, basta escrever de forma contínua.
 
-Negrito
+Basta escrever mesmo, e nada mais...
 
-Para usar o negrito, basta usar asteriscos duplos ao redor da palavra ou frase.
+## Negrito
+
+Para usar o **negrito**, basta usar asteriscos duplos ao redor da palavra ou frase.
 
 Exemplo:
 
 **OpenDevUFCG** 
 
-Itálico
-Para colocar uma palavra em itálico, pode-se colocá-la entre um asterisco ao deredor da palavra ou frase.
+## Itálico
+Para colocar uma palavra em *itálico*, pode-se colocá-la entre um asterisco ao deredor da palavra ou frase.
+
 
 Exemplo:
 
 *OpenDevUFCG*
 
-Riscado (strike)
-Para riscar uma palavra ou frase, basta adicionar ao seu redor dois símbolos de til.
+## Riscado (strike)
+Para ~~riscar~~ uma palavra ou frase, basta adicionar ao seu redor dois símbolos de til.
 
 Exemplo:
 ~~OpenDevUFCG~~
 
-Listas
+## Listas
 
-Listas numeradas
+### Listas numeradas
 
 Para criar uma lista numerada, pode-se iniciar a linha utilizando qualquer número e um ponto, os demais números da lista seguirão
 a sequência com base no primeiro número adicionado.
@@ -46,8 +59,7 @@ Exemplo:
 4. JavaScript
 2. C++
 
-
-Listas com marcadores
+### Listas com marcadores
 
 Basta usar um hífen seguido de um hífen para seja criada de uma lista com marcadores.
 
@@ -56,8 +68,9 @@ Exemplo:
 - Java
  - JavaScript
 - C++
+- EXEMPLO
 
-Listas de tarefas
+### Listas de tarefas
 
 Adicionando - [ ] ou - [x] antes de cada item, pode-se criar uma "to do list" com
 itens marcados ou desmarcados.
@@ -65,23 +78,28 @@ itens marcados ou desmarcados.
 Exemplo:
 - [ ] Header
 - [x] Card dropdown
+- [X] EXEMPLO 
 
-Imagens
+## Imagens
 
-Para inserir uma imagem, usa-se o símbolo /!/[ ]/( ) onde a descrição fica contida nos
+Para inserir uma imagem, usa-se o símbolo ![ ]( ) onde a descrição fica contida nos
 colchetes e o endereço da imagem contida entre parênteses.
 
 Ex:
-![OpenDevUFCG](https://opendevufcg.org/home/img/opendevufcg_logo.svg)
+<div align=left>
+ <img width=300 src='https://opendevufcg.org/home/img/opendevufcg_logo.svg'/>
+ </div>
+ 
+ ![Logo Opendev](https://opendevufcg.org/home/img/opendevufcg_logo.svg)
 
-Links
+## Links
 
 Para inserir links, basta remover a ! utilizada para utilizar imagens. 
 
 Ex:
 [Site OpenDevUFCG](https://opendevufcg.org/)
 
-Trechos de código
+## Trechos de código
 
 Comando isolado
 
@@ -106,14 +124,20 @@ const handleClick = useCallback(
     )
 ```
 
-Emojis
+``` py
+print("Hello world")
+```
+
+## Emojis
+
 Existem códigos especiais para emojis em markdown, que devem ser representados
 entre símbolos de ::
+
 
 Exemplo:
 Este é um guia sobre markdown :pencil:
 
-Tabelas
+## Tabelas
 
 Criar tabelas em markdow basta usar os pipes | e os hifens -
 
@@ -130,6 +154,10 @@ title | string | varíavel que recebe o título do comércio | Rodrigo
 ---: Alinhamento à direita
 :--- Alinhamento à esquerda
 
+Exemplo1| Exemplo2 
+:---: | :---:
+exemplo1 | exemplo2
+
 Quote
 
 Ao responder alguém, podemos realizar citações a outras mensagens completas ou a
@@ -137,6 +165,8 @@ trechos dela, usando sinais de > no início da linha.
 
 
 > João disse que Leandra forneceu este dado para o componente cardCategory
+
+> Exemplo
 
 
 Utilizando símbolos reservados
