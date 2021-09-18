@@ -68,7 +68,7 @@ Exemplo:
 
 Imagens
 
-Para inserir uma imagem, usa-se o símbolo //![ ]( ) onde a descrição fica contida nos
+Para inserir uma imagem, usa-se o símbolo /!/[ ]/( ) onde a descrição fica contida nos
 colchetes e o endereço da imagem contida entre parênteses.
 
 Ex:
@@ -146,5 +146,5 @@ pose acontecer de nós precisarmos usar um sinal desse, para isso, basta adicion
 seja apresentado na tela.
 
 Exemplo:
-Podemos adicionar riscar uma palavra utilizando /~~
+Pode-se usar /# para criar um título igual ao <h1></h1> de html
 
