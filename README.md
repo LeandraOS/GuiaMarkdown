@@ -5,7 +5,7 @@
 - [Sobre o Guia Markdown](#bookmark_tabs-sobre-o-guia-markdown)
 - [Código de conduta](#scroll-código-de-conduta)
 - [Como contribuir?](#question-como-contribuir?)
-  - [Faça fork do repositório](#arrows_counter-clockwise-faça-fork-do-repositório) 
+  - [Faça fork do repositório](##arrows_counterclockwise-fa%C3%A7a-fork-do-reposit%C3%B3rio) 
   - [Faça o clone do repositório](#arrow_heading_down-faça-o-clone-do-repositório)
   - [Acesse o repositório e adicione seu arquivo .md](#computer-acesse-o-repositório-e-adicione-seu-arquivo-.md)
   - [Faça o commit e push](#outbox_tray-Faça-o-commit-e-push)
