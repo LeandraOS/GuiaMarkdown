@@ -3,6 +3,7 @@
 ## :paperclip: Índice
 - [Guia Markdown simples](#pencil-guia-markdown-simples)
 - [Índice](#paperclip-índice)
+- [Sobre](#dart-sobre)
 - [Títulos](#pencil2-títulos)
 - [Parágrafo](#clipboard-par%C3%A1grafo)
 - [Negrito](#b-negrito)
@@ -11,7 +12,7 @@
 - [Listas](#bookmark_tabs-listas) 
   - [Listas numeradas](#1234-listas-numeradas) 
   - [Listas com marcadores](#hash-listas-com-marcadores) 
-  - [Listas de tarefas](#memo-listas-de-tarefas)
+  - [Listas de tarefas](#pencil-listas-de-tarefas)
 - [Imagens](#camera-imagens)
 - [Links](#link-links)
 - [Trechos de código](#computer-trechos-de-c%C3%B3digo)
@@ -22,7 +23,8 @@
 - [Linhas](#straight_ruler-linhas)
 - [Referências](#page_with_curl-referências)
 
-Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem Markdown.
+## :dart: Sobre 
+Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o ***Hacktoberfest OpenDevUFCG*** com o intuito de ajudar você à encontrar os principais marcadores/formatadores da linguagem Markdown.
 
 ## :pencil2: Títulos
 
