@@ -3,7 +3,7 @@
 ## :link: Índice
 - [Guia Markdown simples](#pencil-guia-markdown-simples)
 
-:dart: Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem Markdown.
+Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem Markdown.
 
 ## :pencil2: Títulos
 
@@ -227,7 +227,7 @@ Para utilizar uma linha, basta utilizar \---
 
 ## :page_with_curl: Referências
 
-[Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+- [Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
-[Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
 
