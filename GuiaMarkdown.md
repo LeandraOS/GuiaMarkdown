@@ -16,6 +16,8 @@
 - [Imagens](#camera-imagens)
 - [Links](#link-links)
 - [Trechos de código](#computer-trechos-de-código)
+    -  [Comando isolado](#Comando-isolado)
+    -  [Trecho de código](#trecho-de-código)
 - [Emojis](#smiley-emojis)
 - [Tabelas](#bar_chart-tabelas)
 - [Quote](#speech_balloon-quote)
@@ -163,7 +165,8 @@ Se for citar um comando apenas, basta colocá-lo entre crases.
 
 - `console.log('Hello world)`
 
-Trecho de código
+### Trecho de código
+
 Para compartilhar um código com mais linhas, basta colocar todas elas dentro de um
 grupo delimitado entre três crases consecutivas (sem espaço entre elas).
 
