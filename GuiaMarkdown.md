@@ -24,8 +24,9 @@
 - [Referências](#page_with_curl-referências)
 
 ## :dart: Sobre 
-Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o ***Hacktoberfest OpenDevUFCG*** com o intuito de ajudar você à encontrar os principais marcadores/formatadores da linguagem Markdown. 
-Espero que ajude você no seu dia a dia, aproveite!!! 💙 
+Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o [***Hacktoberfest OpenDevUFCG***](https://opendevufcg.org/) com o intuito de ajudar você à encontrar os principais marcadores/formatadores da linguagem Markdown. 
+
+Espero que lhe ajude no seu dia a dia, e que você faça muita coisa legal com esse contéudo, enfim, sucesso e aproveite!!! :blue_heart:
 
 ## :pencil2: Títulos
 
@@ -131,7 +132,7 @@ itens marcados ou desmarcados.
 Para inserir uma imagem, usa-se o símbolo \!\[ ]\( ) onde a descrição fica contida nos
 colchetes e o endereço da imagem contida entre parênteses.
 
-<div align=left>
+<div align=center>
  <img width=300 src='https://opendevufcg.org/home/img/opendevufcg_logo.svg'/>
  </div>
  
