@@ -168,7 +168,7 @@ Se for citar um comando apenas, basta colocá-lo entre crases.
 ### Trecho de código
 
 Para compartilhar um código com mais linhas, basta colocar todas elas dentro de um
-grupo delimitado entre três crases consecutivas (sem espaço entre elas).
+três crases consecutivas e se quiser especificar a linguagem, basta você adicionar a extensão da linguagem logo após as três crases.
 
 
 ``` jsx
