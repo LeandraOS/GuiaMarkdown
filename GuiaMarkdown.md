@@ -6,29 +6,21 @@
 - [Títulos](#pencil2-títulos)
 - [Parágrafo](#clipboard-par%C3%A1grafo)
 - [Negrito](#b-negrito)
-- [Itálico](#information_source-itálico) 
-- [Riscado (strike)](#x-riscado-(strike)) 
+- [Itálico](#%E2%84%B9%EF%B8%8F-it%C3%A1lico) 
+- [Riscado (strike)](#x-riscado-strike) 
 - [Listas](#bookmark_tabs-listas) 
   - [Listas numeradas](#1234-listas-numeradas) 
   - [Listas com marcadores](#hash-listas-com-marcadores) 
-  - [Listas de tarefas](#memo-listas-com-tarefas)
+  - [Listas de tarefas](#memo-listas-de-tarefas)
 - [Imagens](#camera-imagens)
 - [Links](#link-links)
 - [Trechos de código](#computer-trechos-de-c%C3%B3digo)
 - [Emojis](#smiley-emojis)
 - [Tabelas](#bar_chart-tabelas)
-- [Quote](#speech_balloon-QUOTE)
+- [Quote](#speech_balloon-quote)
 - [Símbolos reservados](#symbols-s%C3%ADmbolos-reservados)
 - [Linhas](#straight_ruler-linhas)
 - [Referências](#page_with_curl-referências)
-
-
-
-
-
-
-
-Referências
 
 Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem Markdown.
 
@@ -255,6 +247,5 @@ Para utilizar uma linha, basta utilizar \---
 ## :page_with_curl: Referências
 
 - [Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
-
 - [Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
 
