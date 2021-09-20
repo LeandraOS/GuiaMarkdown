@@ -63,9 +63,9 @@ Basta escrever mesmo, e nada mais...
 
 Para usar o **negrito**, basta usar asteriscos duplos ao redor da palavra ou frase.
 
-Exemplo:
+**Exemplo:**
 
-**OpenDevUFCG** 
+- **OpenDevUFCG** 
 
 ## ℹ️ Itálico
 
@@ -73,9 +73,9 @@ Para colocar uma palavra em *itálico*, pode-se colocá-la entre um asterisco ao
 
 \*OpenDevUFCG*
 
-Exemplo:
+**Exemplo:**
 
-*OpenDevUFCG*
+- *OpenDevUFCG*
 
 ## :x: Riscado (strike)
 
@@ -83,9 +83,9 @@ Para ~~riscar~~ uma palavra ou frase, basta adicionar ao seu redor dois símbolo
 
 \~~OpenDevUFCG~~
 
-Exemplo:
+**Exemplo:**
 
-~~OpenDevUFCG~~
+- ~~OpenDevUFCG~~
 
 ## :bookmark_tabs: Listas
 
@@ -94,7 +94,7 @@ Exemplo:
 Para criar uma lista numerada, pode-se iniciar a linha utilizando qualquer número e um ponto, os demais números da lista seguirão
 a sequência com base no primeiro número adicionado.
 
-Exemplo:
+**Exemplo:**
 
 1. Python
 8. Java
@@ -107,7 +107,7 @@ Basta usar um hífen seguido de um hífen para seja criada de uma lista com marc
 
 \- Python
 
-Exemplo:
+**Exemplo:**
 - Python
 - Java
  - JavaScript
@@ -119,7 +119,8 @@ Exemplo:
 Adicionando \- \[ ] ou \- \[x] antes de cada item, pode-se criar uma "to do list" com
 itens marcados ou desmarcados.
 
-Exemplo:
+**Exemplo:**
+
 - [ ] Header
 - [x] Card dropdown
 - [X] EXEMPLO 
@@ -129,15 +130,15 @@ Exemplo:
 Para inserir uma imagem, usa-se o símbolo \!\[ ]\( ) onde a descrição fica contida nos
 colchetes e o endereço da imagem contida entre parênteses.
 
-Ex:
 <div align=left>
  <img width=300 src='https://opendevufcg.org/home/img/opendevufcg_logo.svg'/>
  </div>
  
- Obs: Neste caso está sendo utilizado HTML para que seja controlado o tamanho e a posição.
+ **Obs**: Neste caso está sendo utilizado HTML para que seja controlado o tamanho e a posição.
  
- Exemplo: 
- \!\[Logo Opendev](https://opendevufcg.org/home/img/opendevufcg_logo.svg)
+ **Exemplo:** 
+ 
+- \!\[Logo Opendev](https://opendevufcg.org/home/img/opendevufcg_logo.svg)
 
 ## :link: Links
 
@@ -145,20 +146,20 @@ Para inserir links, basta remover a ! utilizada para utilizar imagens.
 
 \[Site OpenDevUFCG](https://opendevufcg.org/)
 
-Exemplo:
-[Site OpenDevUFCG](https://opendevufcg.org/)
+**Exemplo:** 
+- [Site OpenDevUFCG](https://opendevufcg.org/)
 
 ## :computer: Trechos de código
 
-Comando isolado
+### Comando isolado
 
 Se for citar um comando apenas, basta colocá-lo entre crases.
 
 \`console.log('Hello world)`
 
-Exemplo:
+**Exemplo:**
 
-`console.log('Hello world)`
+- `console.log('Hello world)`
 
 Trecho de código
 Para compartilhar um código com mais linhas, basta colocar todas elas dentro de um
@@ -177,7 +178,7 @@ const handleClick = useCallback(
 print("Hello world")
 \```
 
-Exemplo:
+**Exemplo:**
 
 ``` py
 print("Hello world")
@@ -189,7 +190,7 @@ Existem códigos especiais para emojis em Markdown, que devem ser representados 
 
 :nome_do_emoji:
 
-Exemplo:
+**Exemplo:**
 
 :pencil:
 
@@ -207,13 +208,12 @@ imageURL\| string \| varíavel que recebe o link com endereço de imagem \| Lean
 
 title \| string \| varíavel que recebe o título do comércio \| Rodrigo
 
-Exemplo:
+**Exemplo:**
 
 Nome | Tipo | Descrição | Programador(a)
 :---: | ---: | :--- | :---:
 imageURL| string | varíavel que recebe o link com endereço de imagem | Leandra
 title | string | varíavel que recebe o título do comércio | Rodrigo
-
 
 --- Formatação padrão (alinhamento à esquerda)
 
@@ -242,7 +242,11 @@ Pode-se usar \# para criar um título semelhante ao `<h1>` do HTML.
 
 ## :straight_ruler: Linhas
 
-Para utilizar uma linha, basta utilizar \---
+Para utilizar uma linha, basta utilizar:
+
+\---
+
+**Exemplo:**
 
 --- 
 
