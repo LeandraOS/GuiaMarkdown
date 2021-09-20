@@ -1,7 +1,34 @@
 # :pencil: Guia Markdown simples
 
-## :link: Índice
+## :paperclip: Índice
 - [Guia Markdown simples](#pencil-guia-markdown-simples)
+- [Índice](#paperclip-índice)
+- [Títulos](#pencil2-títulos)
+- [Parágrafo](#clipboard-paragráfos)
+- [Negrito](#b-negrito)
+- [Itálico](#information_source-itálico) 
+- [Riscado (strike)](#x-riscado-(strike)) 
+- [Listas](#bookmark_tabs-listas) 
+ - [Listas numeradas](#1234-listas-numeradas) 
+ - [Listas com marcadores](#hash-listas-com-marcadores) 
+ - [Listas de tarefas](#memo-listas-com-tarefas)
+ - [Imagens](#camera-imagens)
+ - [Links](#link-links)
+ - [Trechos de código](#computer-trechos-de-código)
+ - [Emojis](#smiley-emojis)
+ - [Tabelas](#bar_chart-tabelas)
+ - [Quote](#speech_balloon-QUOTES)
+ - [Símbolos reservados](#symbols-simbolos-reservados)
+ - [Linhas](#straight_ruler-linhas)
+ - [Referências](#page_with_curl-referências)
+
+
+
+
+
+
+
+Referências
 
 Olá, nesse guia você vai encontrar os principais marcadores/formatadores da linguagem Markdown.
 
@@ -211,7 +238,7 @@ trechos dela, usando sinais de > no início da linha.
 
 > João disse que Leandra forneceu este dado para o componente cardCategory
 
-## Utilizando símbolos reservados
+## :symbols: Símbolos reservados
 
 Como os símbolos utilizados em Markdown são os mesmos que utilizamos para escrever em qualquer outro arquivo
 pose acontecer de nós precisarmos usar um sinal desse, para isso, basta adicionar uma \ (contrabarra) na frente do símbolo, para que o símbolo seja apresentado na tela.
