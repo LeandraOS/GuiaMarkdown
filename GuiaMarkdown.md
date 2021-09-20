@@ -178,3 +178,8 @@ seja apresentado na tela.
 Exemplo:
 Pode-se usar \# para criar um título semelhante ao `<h1>` do HTML.
 
+## :page_with_curl: Referências
+
+[Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+
+[Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
