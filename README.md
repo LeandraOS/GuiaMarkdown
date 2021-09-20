@@ -10,8 +10,7 @@
   - [Acesse o repositório e adicione seu arquivo .md](#computer-acesse-o-repositório-e-adicione-seu-arquivo-md)
   - [Faça o commit e push](#outbox_tray-fa%C3%A7a-o-commit-e-push)
   - [Crie seu PR](#arrows_clockwise-Crie-seu-PR)
-- [Finalização](#pushpin-finalizacao)
-- [Referências](#page_with_curl-Referências)
+- [Finalização](#-finaliza%C3%A7%C3%A3o)
 
 ## :bookmark_tabs: Sobre o Guia Markdown
  
