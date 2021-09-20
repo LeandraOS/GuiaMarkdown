@@ -180,6 +180,7 @@ const handleClick = useCallback(
 ```
 
 \``` py
+
 print("Hello world")
 \```
 
