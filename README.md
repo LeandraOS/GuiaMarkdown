@@ -11,6 +11,7 @@
   - [Faça o commit e push](#outbox_tray-Faça-o-commit-e-push)
   - [Crie seu PR](#arrows_clockwise-Crie-seu-PR)
 - [Finalização](#pushpin-finalizacao)
+- [Referências](#page_with_curl-Referências)
 
 ## :bookmark_tabs: Sobre o Guia Markdown
  
@@ -73,3 +74,8 @@ Sua contribuição é muito importante e especial!!!
  <img width=200 src='https://media.giphy.com/media/8UH02id9Lf78yP9ZmT/giphy.gif?cid=ecf05e47xxhvjlwyb7rgxp0pdlcpxge163prqpqmdze2lsh2&rid=giphy.gif&ct=g'/>
 </div>
 
+## :page_with_curl: Referências
+
+[Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+
+[Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
