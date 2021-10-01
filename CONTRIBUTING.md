@@ -1,5 +1,13 @@
 ## :pencil: Contributing
 
+## Índice
+- [Faça fork do repositório](#arrows_counterclockwise-faça-fork-do-repositório) 
+- [Faça o clone do repositório](#arrow_heading_down-faça-o-clone-do-repositório)
+- [Acesse o repositório e adicione seu arquivo .md](#computer-acesse-o-repositório-e-adicione-seu-arquivo-md)
+- [Faça o commit e push](#outbox_tray-faça-o-commit-e-push)
+- [Crie seu PR](#arrows_clockwise-Crie-seu-PR)
+- [Finalização](#-finalização)
+
 
 Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
 
@@ -43,7 +51,7 @@ git push nomeDaSuaBranch
 
 ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/50140771/133878578-ea1b38a6-06ef-4a15-bcea-f2bac291a18a.gif)
 
-## 📌 Finalização
+## :pushpin: Finalização
 
 Muito obrigada por ter chegado até aqui 💙
 
