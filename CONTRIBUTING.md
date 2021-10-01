@@ -1,4 +1,4 @@
-## :question: Como contribuir ?
+## :question: Contributing
 
 ### :arrows_counterclockwise: Faça fork do repositório
 
