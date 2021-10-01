@@ -1,5 +1,8 @@
 ## :pencil: Contributing
 
+
+Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
+
 ### :arrows_counterclockwise: Faça fork do repositório
 
 Você pode fazer o fork direto aqui na página do repositório ou utilizando o GitHub CLI com o comando abaixo:
