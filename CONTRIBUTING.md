@@ -6,7 +6,7 @@
 - [Acesse o repositório e adicione seu arquivo .md](#computer-acesse-o-repositório-e-adicione-seu-arquivo-md)
 - [Faça o commit e push](#outbox_tray-faça-o-commit-e-push)
 - [Crie seu PR](#arrows_clockwise-Crie-seu-PR)
-- [Finalização](#-finalização)
+- [Finalização](#pushpin-finalização)
 
 
 Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
