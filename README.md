@@ -4,14 +4,9 @@
 
 - [Sobre o Guia Markdown](#bookmark_tabs-sobre-o-guia-markdown)
 - [Código de conduta](#scroll-código-de-conduta)
-- [Como contribuir?](#question-como-contribuir-)
-  - [Faça fork do repositório](#arrows_counterclockwise-faça-fork-do-repositório) 
-  - [Faça o clone do repositório](#arrow_heading_down-faça-o-clone-do-repositório)
-  - [Acesse o repositório e adicione seu arquivo .md](#computer-acesse-o-repositório-e-adicione-seu-arquivo-md)
-  - [Faça o commit e push](#outbox_tray-faça-o-commit-e-push)
-  - [Crie seu PR](#arrows_clockwise-Crie-seu-PR)
-- [Finalização](#-finalização)
+- [Como contribuir?](#question-como-contribuir)
 
+  
 ## :bookmark_tabs: Sobre o Guia Markdown
  
 Repositório criado com o intuito de levar conhecimento da linguagem de marcação Markdown durante o hacktoberfest OpenDevUFC. Nas aulas, é ensinado como utilizá-lo, suas marcações, especificidades e afins. 
