@@ -17,7 +17,7 @@ Com isso, vai ser muito legal também receber contribuições de textos escritos
 
 Nosso código de conduta está [neste link](https://github.com/LeandraOS/GuiaMarkdown/blob/main/CODE-OF-CONDUCT.md).
 
-## :question: Como contribuir ?
+## :question: Como contribuir?
 
 Veja o passo a passo [neste link](https://github.com/LeandraOS/GuiaMarkdown/blob/main/CONTRIBUTING.md).
 
