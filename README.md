@@ -4,7 +4,7 @@
 
 - [Sobre o Guia Markdown](#bookmark_tabs-sobre-o-guia-markdown)
 - [Código de conduta](#scroll-código-de-conduta)
-- [Como contribuir?](#question-como-contribuir?)
+- [Como contribuir?](#question-Como-contribuir?)
 
   
 ## :bookmark_tabs: Sobre o Guia Markdown
