@@ -1,4 +1,4 @@
-## :question: Contributing
+## :pencil: Contributing
 
 ### :arrows_counterclockwise: Faça fork do repositório
 
