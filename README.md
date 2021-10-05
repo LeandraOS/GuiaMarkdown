@@ -24,7 +24,7 @@ Veja o passo a passo [neste link](https://github.com/LeandraOS/GuiaMarkdown/blob
 Muito obrigada por ter chegado até aqui 💙
 
 Sua contribuição é muito importante e especial!!! 
-Muito obrigada por vim aqui conhecer e contribuir!!! 
+Muito obrigada por vir aqui, conhecer e contribuir!!! 
 
 <div align=center>
  <img width=200 src='https://media.giphy.com/media/8UH02id9Lf78yP9ZmT/giphy.gif?cid=ecf05e47xxhvjlwyb7rgxp0pdlcpxge163prqpqmdze2lsh2&rid=giphy.gif&ct=g'/>
