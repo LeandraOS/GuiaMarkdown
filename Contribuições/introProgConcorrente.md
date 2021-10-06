@@ -27,7 +27,7 @@ Os principais motivos são:
 1. **Desempenho**: programas concorrentes trazem melhorias no quesito de desempenho, pois fazem com que alguns fluxos não precisem esperar o término de outros para iniciar. A existência de vários processadores faz com que a programação concorrente faça ainda mais sentido.
 2. **Responsividade**: um exemplo clássico é fazer com que a movimentação do  mouse seja independente do carregamento do background de alguma interface gráfica, essas coisas precisam acontecer de maneira paralela para que haja responsividade entre a ação do usuário e a resposta do computador.
 
-*Existem também tarefas que são "naturalmente de natureza" concorrente.*
+*Existem também tarefas que são por natureza concorrentes.*
 
 
 ## :bulb: Programação Concorrente X Programação Paralela
@@ -65,7 +65,7 @@ Exemplo: cada processador está computando um quadrante diferente de um mapa.
 
 ## :runner: Como soluciono a Condição de Corrida???
 
-Uma solução possível é a **espera ocupada** (busy wait), para isso é necessário que haja adição de um trecho de código que checa se a região crítica já está sendo executada por outro fluxo, caso positivo, a região crítica não será executada e o fluxo permanecerá num loop de espera até que a região crítica seja liberada e ele possa executar a sua região crítica, ao fim da execução haverá algum código sinalizando que a região crítica não estará mais sendo usada por aquele fluxo.
+Uma solução possível é a **espera ocupada** (busy wait), para isso é necessário que haja adição de um trecho de código que checa se a região crítica já está sendo executada por outro fluxo, caso positivo, a região crítica não será executada e o fluxo permanecerá num loop de espera até que a mesma seja liberada e ele possa executá-la. Ao fim da execução haverá algum código sinalizando que a região crítica não estará mais sendo usada por aquele fluxo.
 
 ## :vertical_traffic_light: Semáforo:
 
@@ -81,8 +81,8 @@ Bom, quando se trata de concorrência quase tudo é resolvido usando semáforos.
 2. Esse valor pode ser alterado através de duas operações:
     - signal (incremento)
     - wait (decremento);
-3. Quando uma thread executa a operação wait de um semáforo, e o valor ficar negativo, a thread bloqueia;
-4. Quando uma thread executa a operação signal, e o valor não for mais negativo, se houverem threads bloqueadas, uma delas é desbloqueada.
+3. Quando uma thread executa a operação wait de um semáforo e o valor ficar negativo, a thread bloqueia;
+4. Quando uma thread executa a operação signal e o valor não for mais negativo, se houverem threads bloqueadas, uma delas é desbloqueada.
 
 Bem... É isso por enquanto ☾ ⋆⁺₊⋆
 
