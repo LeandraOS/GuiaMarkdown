@@ -71,7 +71,7 @@ Uma solução possível é a **espera ocupada** (busy wait), para isso é necess
 
 Bom, quando se trata de concorrência quase tudo é resolvido usando semáforos.
 
-### E que são esses tais semáforos?
+### E o que são esses tais semáforos?
 
 ⋆⁺₊⋆ O semáforo é uma variável especial protegida (ou tipo abstrato de dados) que tem como função controlar o acesso a recursos compartilhados ⋆⁺₊⋆
 
