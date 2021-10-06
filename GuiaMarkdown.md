@@ -26,9 +26,9 @@
 - [Referências](#page_with_curl-referências)
 
 ## :dart: Sobre 
-Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o [***Hacktoberfest OpenDevUFCG***](https://opendevufcg.org/) com o intuito de ajudar você à encontrar os principais marcadores/formatadores da linguagem Markdown. 
+Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o [***Hacktoberfest OpenDevUFCG***](https://opendevufcg.org/) com o intuito de ajudar você a encontrar os principais marcadores/formatadores da linguagem Markdown. 
 
-Espero que lhe ajude no seu dia a dia, e que você faça muita coisa legal com esse contéudo, enfim, sucesso e aproveite!!! :blue_heart:
+Espero que lhe ajude no seu dia a dia, e que você faça muita coisa legal com esse contéudo. Enfim, sucesso e aproveite!!! :blue_heart:
 
 ## :pencil2: Títulos
 
