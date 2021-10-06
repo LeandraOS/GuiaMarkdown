@@ -49,7 +49,7 @@ git push nomeDaSuaBranch
 
 ### :arrows_clockwise: Crie seu PR 
 
-![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/50140771/133878578-ea1b38a6-06ef-4a15-bcea-f2bac291a18a.gif)
+https://user-images.githubusercontent.com/50140771/136137901-4a5b279c-9c2b-4f17-8b33-5bfdf2888c1f.mp4
 
 ## :pushpin: Finalização
 
