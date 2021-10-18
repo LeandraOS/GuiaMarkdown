@@ -8,7 +8,6 @@ I'm **Caio Galvão**, a **Computer Science** student at Federal University of Ca
 
 ## How to reach me :mailbox:
 
-
 Let's talk, I'm always looking to help or collaborate on projects :handshake:.
 
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=whit)](mailto:caio.galvao@ccc.ufcg.edu.br)
