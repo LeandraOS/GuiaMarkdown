@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/xJMpMp7" width="540" height="390">
+    <img src="https://i.ibb.co/gWNMWNj/prof.jpg" width="540" height="390">
 </div>
 
 ## Olá mundo! 
