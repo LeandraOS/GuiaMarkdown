@@ -9,7 +9,7 @@
   
 ## :bookmark_tabs: Sobre o Guia Markdown
  
-Repositório criado com o intuito de levar conhecimento da linguagem de marcação Markdown durante o hacktoberfest OpenDevUFC. [Nas aulas](https://www.youtube.com/watch?v=t5iMFbt1u-I&list=PLpRSAQI4X2czC1gDm_PoNJULIWpE2eO56), é ensinado como utilizá-lo, suas marcações, especificidades e afins. 
+Repositório criado com o intuito de levar conhecimento da linguagem de marcação Markdown durante o hacktoberfest OpenDevUFCG. [Nas aulas](https://www.youtube.com/watch?v=t5iMFbt1u-I&list=PLpRSAQI4X2czC1gDm_PoNJULIWpE2eO56), é ensinado como utilizá-lo, suas marcações, especificidades e afins. 
 
 Com isso, vai ser muito legal também receber contribuições de textos escritos também em Markdown com a finalidade de estimular e fixar o seu uso e ver 👀 o que tá sendo produzido e aprendido pelos(as) participantes.
 
