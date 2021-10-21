@@ -16,22 +16,22 @@
   <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Handshake.gif" height="33px" /></h3>
 
 <a href="https://www.instagram.com/j.guilherme.coelho/">
-  <img height="30" src="./assets/social/instagram.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/2fde1db4f29f0ef94c8db0e44093d04e4ec6e7db/assets/social/instagram.svg" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/j-guilherme-coelho/">
 <img heigh="24"
-  src="./assets/social/linkedin.svg"/>
+  src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/2fde1db4f29f0ef94c8db0e44093d04e4ec6e7db/assets/social/linkedin.svg"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:joseguilhermecoelhooliveira@gmail.com">
 <img heigh="24"
-  src="./assets/social/mail.svg"/>
+  src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/2fde1db4f29f0ef94c8db0e44093d04e4ec6e7db/assets/social/mail.svg"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/guilhermecoelo">
 <img heigh="24"
-  src="./assets/social/twitter.svg"/>
+  src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/2fde1db4f29f0ef94c8db0e44093d04e4ec6e7db/assets/social/twitter.svg"/>
 </a>
 
 <br>
