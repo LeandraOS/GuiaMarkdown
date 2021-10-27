@@ -11,6 +11,11 @@
 
 Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
 
+- [x] **Adicionar README.md profile.**
+- [x] **Adicionar informações, ferramentas e usos da linguagem de marcação Markdown.**
+- [x] **Adicionar README.md de projetos.**
+- [x] **Adicionar correções aos .md já contidos no repositório.**
+
 ### :arrows_counterclockwise: Faça fork do repositório
 
 Você pode fazer o fork direto aqui na página do repositório ou utilizando o GitHub CLI com o comando abaixo:
