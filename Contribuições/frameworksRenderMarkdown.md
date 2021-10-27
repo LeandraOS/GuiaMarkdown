@@ -2,7 +2,7 @@
 
 Agora que já conhecemos todo o poder que tem um arquivo Markdown, você pode perguntar: e se eu pudesse usar meus arquivos .md para criar um site? E a boa notícia é que você pode! 
 
-Irei listar abaixo alguns frameworks que te permitiram fazer isso e alguns links que te ajudarão a começar:
+Irei listar abaixo alguns frameworks que te permitirão fazer isso e alguns links que te ajudarão a começar:
 
 <h2>
   <a href="https://www.gatsbyjs.com/">
