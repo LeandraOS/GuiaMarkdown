@@ -4,6 +4,7 @@
 - [Guia Markdown simples](#pencil-guia-markdown-simples)
 - [Índice](#paperclip-índice)
 - [Sobre](#dart-sobre)
+- [História do Markdown](#book-história-do-markdown)
 - [Títulos](#pencil2-títulos)
 - [Parágrafo](#clipboard-parágrafo)
 - [Negrito](#b-negrito)
@@ -29,6 +30,10 @@
 Olá, este guia foi criado durante o mini curso sobre Markdown ministrado por mim durante o [***Hacktoberfest OpenDevUFCG***](https://opendevufcg.org/) com o intuito de ajudar você a encontrar os principais marcadores/formatadores da linguagem Markdown. 
 
 Espero que lhe ajude no seu dia a dia, e que você faça muita coisa legal com esse contéudo. Enfim, sucesso e aproveite!!! :blue_heart:
+
+## :book: História do Markdown
+
+Em2004, John Gruber criou a linguagem Markdown em colaboração com Aaron Swartz na sintaxe, buscando possibilitar a escrita em XHTML (ou HTML) estruturalmente válido partindo de textos simples.
 
 ## :pencil2: Títulos
 
@@ -260,4 +265,5 @@ Para utilizar uma linha, basta utilizar:
 
 - [Guia Markdown Gustavo Guanabara - Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 - [Documentação Markdown - Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [História do Markdown](https://medium.com/walternascimentobarroso-pt/curso-r%C3%A1pido-de-markdown-4af49e3bfa65)
 
