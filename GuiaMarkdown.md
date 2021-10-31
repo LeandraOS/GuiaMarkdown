@@ -234,7 +234,7 @@ title | string | varíavel que recebe o título do comércio | Rodrigo
 
 :--- Alinhamento à esquerda
 
-Também é possível utilizar ferramentas que criam o código em markdow baseado em
+Também é possível utilizar ferramentas que criam o código em markdown baseado em
 uma interface gráfica mais amigável. Você pode encontrar uma dessas soluções clicando
 [aqui](https://www.tablesgenerator.com/markdown_tables). 
 
