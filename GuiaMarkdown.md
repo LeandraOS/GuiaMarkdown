@@ -33,7 +33,7 @@ Espero que lhe ajude no seu dia a dia, e que você faça muita coisa legal com e
 
 ## :book: História do Markdown
 
-Em2004, John Gruber criou a linguagem Markdown em colaboração com Aaron Swartz na sintaxe, buscando possibilitar a escrita em XHTML (ou HTML) estruturalmente válido partindo de textos simples.
+Em 2004, John Gruber criou a linguagem Markdown em colaboração com Aaron Swartz na sintaxe, buscando possibilitar a escrita em XHTML (ou HTML) estruturalmente válido partindo de textos simples.
 
 ## :pencil2: Títulos
 
@@ -234,6 +234,10 @@ title | string | varíavel que recebe o título do comércio | Rodrigo
 
 :--- Alinhamento à esquerda
 
+Também é possível utilizar ferramentas que criam o código em markdow baseado em
+uma interface gráfica mais amigável. Você pode encontrar uma dessas soluções clicando
+[aqui](https://www.tablesgenerator.com/markdown_tables). 
+
 ## :speech_balloon: Quote
 
 Ao responder alguém, podemos realizar citações a outras mensagens completas ou a
@@ -246,7 +250,7 @@ trechos dela, usando sinais de > no início da linha.
 ## :symbols: Símbolos reservados
 
 Como os símbolos utilizados em Markdown são os mesmos que utilizamos para escrever em qualquer outro arquivo
-pose acontecer de nós precisarmos usar um sinal desse, para isso, basta adicionar uma \ (contrabarra) na frente do símbolo, para que o símbolo seja apresentado na tela.
+pode acontecer de nós precisarmos usar um sinal desse. Para isso, basta adicionar uma \ (contrabarra) na frente do símbolo, para que o símbolo seja apresentado na tela.
 
 Exemplo:
 Pode-se usar \# para criar um título semelhante ao `<h1>` do HTML.
