@@ -25,8 +25,22 @@ Writebox é um editor de texto com suporte para Markdown. Permite salvar o arqui
 
 ![Captura de tela da ferramenta Writebox](https://user-images.githubusercontent.com/51917545/139353771-e2610bd6-ae73-484e-81ee-16bf08574b39.png)
 
+## [Draft](https://draftin.com/)
+
+Draft é um editor com suporte a Markdown. Suas principais funcionalidades são: versionamento de controle, modo apresentação e há a possibilidade de publicar o conteúdo escrito. Além disso, possui integração integração com ferramentas como Google Docs e Evernote.
+
+![Captura de tela da ferramenta Draft](https://user-images.githubusercontent.com/27986016/139606533-4c90049e-bdc2-4c4e-82d1-653500639ccc.png)
+
+
+## [Mou](http://25.io/mou/)
+
+Mou é um editor com suporte a Markdown exclusivo para o sistema MacOS. Seu diferencial em relação aos concorrentes é a opção de personalizar o CSS do documento escrito e a opção de exportar o documento como HTML.
+
+![Captura de tela da ferramenta Draft](https://user-images.githubusercontent.com/27986016/139606503-13860a12-a058-4b4a-b20d-5fdd3dcd6038.png))
 
 # Referências
 [The Ultimate List Of The Best Markdown Editors](https://www.oberlo.com/blog/markdown-editors)
 
 [10 Markdown Editors That Will Make Your Job Easier](https://www.webfx.com/blog/web-design/online-markdown-editors/)
+
+[The 10 Best Markdown Editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
