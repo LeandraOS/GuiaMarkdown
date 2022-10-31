@@ -39,3 +39,12 @@ Esta biblioteca foi adaptada do Javascript, e utiliza o [mecanismo de Commonmark
 ### [Flexmark](https://github.com/vsch/flexmark-java)
 
 Biblioteca que substituiu o Pegdown (antiga biblioteca mais popular de Java para Markdown). Possui um enorme número de extensões e funcionalidades customizáveis.
+
+## R
+
+### [R Markdown](https://rmarkdown.rstudio.com/)
+
+*R Markdown* é uma ferramenta que possibilita a criação de documentos e apresentações com *Markdown* e trechos de código em *R*. Faz parte da IDE [RStudio](https://www.rstudio.com/) e, para usar a ferramenta, basta criar um novo arquivo do tipo *R Markdown*. Os documentos e apresentações podem ser exportados em vários formatos, como HTML, PDF e Word.
+
+Exemplo de código *R Markdown* no *RStudio*:
+![Exemplo R Markdown no RStudio](https://user-images.githubusercontent.com/68706339/199090987-06d43a9d-8b46-4816-9a17-60a88b6d91e4.png)
